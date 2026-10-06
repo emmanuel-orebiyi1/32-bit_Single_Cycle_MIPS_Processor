@@ -33,7 +33,7 @@ The processor uses a **single-cycle MIPS architecture**, meaning each instructio
 
 ### Processor Block Diagram
 
-![MIPS Processor Block Diagram](images/mips-block-diagram.png)
+![MIPS Processor Block Diagram](images/mips_block_diagram.png)
 
 The architecture is divided into the following major sections:
 
